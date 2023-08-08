@@ -1,0 +1,12 @@
+{
+  "name": "@tyamap/eslint-config",
+  "version": "0.1.0",
+  "description": "Shared eslint config",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
